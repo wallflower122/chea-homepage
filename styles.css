@@ -256,10 +256,13 @@ font-size: 1.5rem;
     }
     .back-img{
         margin-top: 10%;
-        margin-left: 29%;
+        margin-left: 30%;
     }
     .btn-group{
         padding-left: 45%;
         
     }
+     .para{
+         margin: auto;
+     }
 }
